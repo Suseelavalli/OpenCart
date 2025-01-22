@@ -1,0 +1,96 @@
+2025-01-22 00:08:12 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Testing Workspace\OpenCart\master.xml"
+2025-01-22 00:08:18 INFO  TC001_AccountRegistrationTest:16 -
+			***Started TC001_AccountRegistrationTest***
+2025-01-22 00:08:18 INFO  TC001_AccountRegistrationTest:20 -
+			---Validating HomePage---
+2025-01-22 00:08:20 INFO  TC001_AccountRegistrationTest:25 -
+			--Validating Account_Registration---
+2025-01-22 00:08:21 INFO  TC001_AccountRegistrationTest:40 -
+			--Validating expected message---
+2025-01-22 00:08:21 INFO  TC001_AccountRegistrationTest:60 -
+			*** Finished TC001_AccountRegistrationTest *** 
+2025-01-22 00:08:26 INFO  TC002_AccountLoginTest:16 -
+			****Starting TC002_AccountLoginTest****
+2025-01-22 00:08:27 INFO  TC002_AccountLoginTest:43 -
+			*** Finished TC002_AccountLoginTest***
+2025-01-22 10:49:14 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Testing Workspace\OpenCart\master.xml"
+2025-01-22 10:49:21 INFO  TC001_AccountRegistrationTest:16 -
+			***Started TC001_AccountRegistrationTest***
+2025-01-22 10:49:21 INFO  TC001_AccountRegistrationTest:20 -
+			---Validating HomePage---
+2025-01-22 10:49:22 INFO  TC001_AccountRegistrationTest:25 -
+			--Validating Account_Registration---
+2025-01-22 10:49:24 INFO  TC001_AccountRegistrationTest:40 -
+			--Validating expected message---
+2025-01-22 10:49:24 INFO  TC001_AccountRegistrationTest:60 -
+			*** Finished TC001_AccountRegistrationTest *** 
+2025-01-22 10:49:27 INFO  TC002_AccountLoginTest:16 -
+			****Starting TC002_AccountLoginTest****
+2025-01-22 10:49:29 INFO  TC002_AccountLoginTest:43 -
+			*** Finished TC002_AccountLoginTest***
+2025-01-22 11:12:13 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Testing Workspace\OpenCart\master.xml"
+2025-01-22 11:12:18 INFO  TC001_AccountRegistrationTest:16 -
+			***Started TC001_AccountRegistrationTest***
+2025-01-22 11:12:18 INFO  TC001_AccountRegistrationTest:20 -
+			---Validating HomePage---
+2025-01-22 11:12:20 INFO  TC001_AccountRegistrationTest:25 -
+			--Validating Account_Registration---
+2025-01-22 11:12:22 INFO  TC001_AccountRegistrationTest:40 -
+			--Validating expected message---
+2025-01-22 11:12:22 INFO  TC001_AccountRegistrationTest:60 -
+			*** Finished TC001_AccountRegistrationTest *** 
+2025-01-22 11:12:25 INFO  TC002_AccountLoginTest:16 -
+			****Starting TC002_AccountLoginTest****
+2025-01-22 11:12:27 INFO  TC002_AccountLoginTest:43 -
+			*** Finished TC002_AccountLoginTest***
+2025-01-22 13:44:53 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Testing Workspace\OpenCart\master.xml"
+2025-01-22 13:45:00 INFO  TC001_AccountRegistrationTest:16 -
+			***Started TC001_AccountRegistrationTest***
+2025-01-22 13:45:00 INFO  TC001_AccountRegistrationTest:20 -
+			---Validating HomePage---
+2025-01-22 13:45:01 INFO  TC001_AccountRegistrationTest:25 -
+			--Validating Account_Registration---
+2025-01-22 13:45:04 INFO  TC001_AccountRegistrationTest:40 -
+			--Validating expected message---
+2025-01-22 13:45:05 INFO  TC001_AccountRegistrationTest:60 -
+			*** Finished TC001_AccountRegistrationTest *** 
+2025-01-22 13:45:08 INFO  TC002_AccountLoginTest:16 -
+			****Starting TC002_AccountLoginTest****
+2025-01-22 13:45:10 INFO  TC002_AccountLoginTest:43 -
+			*** Finished TC002_AccountLoginTest***
+2025-01-22 13:45:26 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Testing Workspace\OpenCart\master.xml"
+2025-01-22 13:45:31 INFO  TC001_AccountRegistrationTest:16 -
+			***Started TC001_AccountRegistrationTest***
+2025-01-22 13:45:31 INFO  TC001_AccountRegistrationTest:20 -
+			---Validating HomePage---
+2025-01-22 13:45:32 INFO  TC001_AccountRegistrationTest:25 -
+			--Validating Account_Registration---
+2025-01-22 13:45:34 INFO  TC001_AccountRegistrationTest:40 -
+			--Validating expected message---
+2025-01-22 13:45:34 INFO  TC001_AccountRegistrationTest:60 -
+			*** Finished TC001_AccountRegistrationTest *** 
+2025-01-22 13:45:37 INFO  TC002_AccountLoginTest:16 -
+			****Starting TC002_AccountLoginTest****
+2025-01-22 13:45:39 INFO  TC002_AccountLoginTest:43 -
+			*** Finished TC002_AccountLoginTest***
+2025-01-22 13:52:55 DEBUG TestNG:82 -
+			suiteXmlPath: "D:\Testing Workspace\OpenCart\master.xml"
+2025-01-22 13:52:58 INFO  TC001_AccountRegistrationTest:16 -
+			***Started TC001_AccountRegistrationTest***
+2025-01-22 13:52:58 INFO  TC001_AccountRegistrationTest:20 -
+			---Validating HomePage---
+2025-01-22 13:53:00 INFO  TC001_AccountRegistrationTest:25 -
+			--Validating Account_Registration---
+2025-01-22 13:53:02 INFO  TC001_AccountRegistrationTest:40 -
+			--Validating expected message---
+2025-01-22 13:53:02 INFO  TC001_AccountRegistrationTest:60 -
+			*** Finished TC001_AccountRegistrationTest *** 
+2025-01-22 13:53:05 INFO  TC002_AccountLoginTest:16 -
+			****Starting TC002_AccountLoginTest****
+2025-01-22 13:53:07 INFO  TC002_AccountLoginTest:43 -
+			*** Finished TC002_AccountLoginTest***
